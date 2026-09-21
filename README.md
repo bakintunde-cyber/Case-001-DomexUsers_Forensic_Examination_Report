@@ -1,5 +1,4 @@
 # Case-001-DomexUsers_Forensic_Examination_Report
-# CASE-001 — DomexUsers Forensic Examination
 
 ## Digital Forensics Case Investigation
 
